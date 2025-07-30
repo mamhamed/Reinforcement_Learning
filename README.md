@@ -10,6 +10,7 @@ Everything runs on CPU or a single GPU and is easy to open in **Google Colab** 
 Reinforcement_Learning/
 ├── RL_Basics_CartPole_REINFORCE.ipynb
 ├── RL_Sparse_reward_Actor_Critic_and_PPO.ipynb
+├── RL_DQN.ipynb
 ├── imitation_learning_hopper/ # Behaviour‑cloning & DAgger on MuJoCo Hopper
 ├── some_tutorials/ # Misc. scratch notebooks / code snippets
 └── README.md ← you are here
